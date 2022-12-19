@@ -1,3 +1,3 @@
 # Capstone-modul-1
-# Project Gudang
+# Project Stok Gudang
 Ini adalah tugas capstone modul 1
